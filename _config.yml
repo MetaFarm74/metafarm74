@@ -6,7 +6,7 @@ url: "" # The base hostname & protocol for your site, e.g. http://example.com
 title: metafarm74
 logo:  /assets/images/MetaFarm74_Logo.png # You can add own logo
 description: # Add your awesome description
-copyright: Copyright 2022 Designed by [Alex Zander](https://themefisher.com) & Developed by [Shaan Patel]
+copyright: Copyright 2022 Designed by [Alex Zander](https://www.labcr74tivefarm.com/) & Developed by [Shaan Patel](https://github.com/Epistetechnician)
 # Preloader
 preloader: true # To disable preloader change value to false
 
@@ -15,9 +15,21 @@ menu:
     url: /
   - name: About
     url: /about/
+    - submenu:
+      - name: Mission
+        url: /mission/
+    - submenu:
+      - name: roadmap
+        url: /roadmap/
+    - submenu:
+      - name: Team&Partners
+        url: /team&parnters/        
+    
   - name: Contact
     url: /contact/
-
+    - submenu:
+      - name: Discord
+        url: /discord/
 # *** NOTE ***
 # You can add submenus. For example:
 
@@ -54,14 +66,15 @@ contact:
     street: 6 rip carl Avenue CA 90733
 
 # Contact Form
-contact-form: example@email.com
+contact-form: support@metafarm74.xyz,
+              AlexZander@metafarm74.xyz
 
 # Social links
 social:
-- {icon: "ti-facebook", link: "#"}
 - {icon: "ti-twitter-alt", link: "#"}
-- {icon: "ti-linkedin", link: "#"}
-- {icon: "ti-github", link: "#"}
+- {icon: "ti-discord", link: "#"}
+- {icon: "ti-github", link: "https://github.com/MetaFarm74"}
+- {icon: "ti-instagram", link: "#"}
 
 #-------------------------------
 # Comment Section (Disqus)

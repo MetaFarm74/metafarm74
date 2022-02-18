@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
-baseurl: "nft.metafarm.xyz" # The subpath of your site, e.g. /blog
-url: "metafarm74.xyz" 
+baseurl: # The subpath of your site, e.g. /blog
+url: 
 
 title: metafarm74
 logo:  /assets/images/MetaFarm74_Logo.png # You can add own logo

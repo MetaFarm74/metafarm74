@@ -1,6 +1,5 @@
 /*!------------------------------------------------------------------
 [MAIN STYLESHEET]
-
 PROJECT:	Project Name
 VERSION:	Versoin Number
 -------------------------------------------------------------------*/
@@ -169,7 +168,7 @@ body {
   width: 142px;
   height: 40px;
   margin: -20px 0 0 -71px;
-  background: black;
+  background: white;
 }
 
 .preloader .loader .dot {
@@ -335,7 +334,7 @@ a:hover, a.text-dark:hover {
 }
 
 .bg-secondary {
-  background: #000000 !important;
+  background: #fdefe6 !important;
 }
 
 .text-primary {
@@ -509,8 +508,8 @@ textarea.form-control {
 }
 
 .navbar .dropdown-item:active {
-  color: #000;
-  background-color:#000000;
+  color: #fff;
+  background-color: #ff6f00;
 }
 
 .search-icon {
@@ -588,7 +587,7 @@ textarea.form-control {
   font-family: "hanskendrick";
   font-size: 30px;
   border: 0;
-  color: #000000;
+  color: #585757;
 }
 
 @media (max-width: 767px) {
@@ -663,7 +662,7 @@ textarea.form-control {
 /* homepage 2 */
 .hero-section {
   padding: 70px 0 0;
-  background-image: linear-gradient(#000 45%, #000000 0);
+  background-image: linear-gradient(#fff 45%, #fdefe6 0);
 }
 
 .dividers {

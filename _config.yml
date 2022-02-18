@@ -19,17 +19,13 @@ menu:
       - name: Mission
         url: /mission/
     - submenu:
-      - name: roadmap
+      - name: Roadmap
         url: /roadmap/
     - submenu:
-      - name: Team&Partners
-        url: /team&parnters/        
-    
+      - name: Team
+        url: /team/        
   - name: Contact
     url: /contact/
-    - submenu:
-      - name: Discord
-        url: /discord/
 # *** NOTE ***
 # You can add submenus. For example:
 
@@ -48,26 +44,24 @@ featured-post-slider: true # You can enable or disable the featured-post-slider 
 #-------------------------------
 # Hero Section
 hero:
-  hero-subtitle: I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print.
+  hero-subtitle: This is a cultural development initiative that aims to empower artists and marginalized communities by leveraging the applications of the decentralized web. The initiative is comprised of backing local community development projects through the release of recursive NFT collections.
   hero-banner: /assets/images/banner-img.png # Add your banner image '/assets/images/'
 
 #-------------------------------
 # Author Settings
 author:
-  name: Jhon Abraham
+  name: Shaan Patel
 
 #-------------------------------
 # Contact Info
 contact:
-  email: example@ymail.com
-  phone: +90 000 333 22
+  email: support@metafarm74.xyz
   address:
-    city: Sydney
-    street: 6 rip carl Avenue CA 90733
+    city: Los Angeles X New York City
+    street: Metaversal Avenue
 
 # Contact Form
-contact-form: support@metafarm74.xyz,
-              AlexZander@metafarm74.xyz
+contact-form: support@metafarm74.xyz
 
 # Social links
 social:

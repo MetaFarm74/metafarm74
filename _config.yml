@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
-baseurl: "" # The subpath of your site, e.g. /blog
-url: "" # The base hostname & protocol for your site, e.g. http://example.com
+baseurl: "nft.metafarm.xyz" # The subpath of your site, e.g. /blog
+url: "metafarm74.xyz" 
 
 title: metafarm74
 logo:  /assets/images/MetaFarm74_Logo.png # You can add own logo
@@ -17,13 +17,7 @@ menu:
     url: /about/
     - submenu:
       - name: Mission
-        url: /mission/
-    - submenu:
-      - name: Roadmap
-        url: /roadmap/
-    - submenu:
-      - name: Team
-        url: /team/        
+        url: /mission/      
   - name: Contact
     url: /contact/
 # *** NOTE ***

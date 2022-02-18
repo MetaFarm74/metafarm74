@@ -335,7 +335,7 @@ a:hover, a.text-dark:hover {
 }
 
 .bg-secondary {
-  background: #fdefe6 !important;
+  background: #000000 !important;
 }
 
 .text-primary {
@@ -509,8 +509,8 @@ textarea.form-control {
 }
 
 .navbar .dropdown-item:active {
-  color: #fff;
-  background-color: #ff6f00;
+  color: #000;
+  background-color:#000000;
 }
 
 .search-icon {
@@ -588,7 +588,7 @@ textarea.form-control {
   font-family: "hanskendrick";
   font-size: 30px;
   border: 0;
-  color: #585757;
+  color: #000000;
 }
 
 @media (max-width: 767px) {

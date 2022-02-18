@@ -35,12 +35,12 @@ featured-post-slider: true # You can enable or disable the featured-post-slider 
 #-------------------------------
 # Hero Section
 hero:
-  hero-subtitle: This is a cultural development initiative that aims to empower artists and marginalized communities by leveraging the applications of the decentralized web. The initiative is comprised of backing local community development projects through the release of recursive NFT collections.
+  hero-subtitle:  
   hero-banner: /assets/images/banner-img.png # Add your banner image '/assets/images/'
 
 #-------------------------------
 # Author Settings
-author:
+author: 
   name: Shaan Patel
 
 #-------------------------------
@@ -57,7 +57,7 @@ contact-form: support@metafarm74.xyz
 # Social links
 social:
 - {icon: "ti-twitter-alt", link: "#"}
-- {icon: "ti-discord", link: "#"}
+- {icon: "ti-discord-alt", link: "#"}
 - {icon: "ti-github", link: "https://github.com/MetaFarm74"}
 - {icon: "ti-instagram", link: "#"}
 

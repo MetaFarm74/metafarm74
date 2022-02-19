@@ -3,7 +3,7 @@ layout: post
 title: "Charming Evening Field"
 date: 2019-05-14 18:46:10 +03:00
 description: "This is meta description"
-image: "assets/images/featured-post/post-4.jpg.jpg"
+image: "assets/images/featured-post/post-4.jpg"
 categories: 
   - "Food"
 tags:

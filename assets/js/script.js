@@ -108,10 +108,6 @@
       remoteTarget: _this.attr('data-target')
     });
   });
-
-
-
-
   // DOM elements
   const swapBtn = document.querySelector('#swap-btn')
   const container = document.querySelector('#container')
